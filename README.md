@@ -1,6 +1,6 @@
 # Battleboat
 
-# Bagde
+# Bagde test
 [![Build Status](http://ec2-54-91-247-110.compute-1.amazonaws.com/buildStatus/icon?job=projet-ci-dev&build=4)](http://ec2-54-91-247-110.compute-1.amazonaws.com/job/projet-ci-dev/4/)
 #Integration continue 
 ## Project description
